@@ -1,0 +1,4 @@
+.env
+transcripts/
+bin/
+obj/
