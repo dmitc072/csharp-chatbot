@@ -2,7 +2,6 @@
 using System.IO;
 using System.Threading.Tasks;
 
-public interface IChatBrain { Task<string> GetReplyAsync(string input); }
 
 class Program
 {
