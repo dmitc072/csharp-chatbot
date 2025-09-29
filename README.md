@@ -25,5 +25,5 @@ A clean, minimal .NET 8 console chatbot with pluggable LLM backends (OpenAI-comp
 git clone https://github.com/dmitc072/csharp-chatbot
 cd csharp-chatbot
 
-
+dotnet run
 ```
